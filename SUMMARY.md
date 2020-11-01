@@ -38,7 +38,7 @@
     +   [苹果、谷歌等大厂的AI面试题被我们搞到手了，你敢来挑战吗？](doc/interview/zhihu-p-36025191.md)
     +   [面试了 8 家公司，他们问了我这些机器学习题目……](doc/interview/zhihu-p-36113785.md)
 +   Kaggle
-    +   [如何在 Kaggle 首战中进入前 10%](doc/kaggle/如何在 Kaggle 首战中进入前 10%.md)
+    +   [如何在 Kaggle 首战中进入前 10%](doc/kaggle/如何在_Kaggle_首战中进入前_10%.md)
     +   [Kaggle word2vec NLP 教程](doc/kaggle/Bag_of_Words_Meets_Bags_of_Popcorn/README.md)
 +   Keras
     +   [使用 Python 和 Keras 逐步开发你的第一个神经网络](doc/keras/使用_Python_和_Keras_逐步开发你的第一个神经网络.md)
