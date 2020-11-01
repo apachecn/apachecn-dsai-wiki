@@ -32,3 +32,37 @@
     +   [纹理网络:在前馈网络中进行纹理合成与风格化](doc/dl/纹理网络：在前馈网络中进行纹理合成与风格化.md)
     +   [详解 BiLSTM 及代码实现](doc/dl/详解_BiLSTM_及代码实现.md)
     +   [超越ImageNet：谷歌内建300M图像数据集揭露精度与数据的线性增长关系](doc/dl/超越ImageNet：谷歌内建300M图像数据集揭露精度与数据的线性增长关系.md)
++   面试
+    +   [Google人工智能面试·真·题（附参考答案+攻略）](doc/interview/zhihu-p-35978758.md)
+    +   [更新谷歌、微软等大企业AI面经，附开发者面试前的准备工作](doc/interview/zhihu-p-35999853.md)
+    +   [苹果、谷歌等大厂的AI面试题被我们搞到手了，你敢来挑战吗？](doc/interview/zhihu-p-36025191.md)
+    +   [面试了 8 家公司，他们问了我这些机器学习题目……](doc/interview/zhihu-p-36113785.md)
++   Kaggle
+    +   [如何在 Kaggle 首战中进入前 10%](doc/kaggle/如何在 Kaggle 首战中进入前 10%.md)
+    +   [Kaggle word2vec NLP 教程](doc/kaggle/Bag_of_Words_Meets_Bags_of_Popcorn/README.md)
++   Keras
+    +   [使用 Python 和 Keras 逐步开发你的第一个神经网络](doc/keras/使用_Python_和_Keras_逐步开发你的第一个神经网络.md)
++   Matplotlib
+    +   [Rougier 的 Matplotlib 教程](doc/matplotlib/rougier-matplotlib-tut.md)
++   机器学习
+    +   [BAT 机器学习 1000 题](doc/ml/BAT_机器学习_1000_题/README.md)
+    +   [【论文笔记】BINE：二分网络嵌入](doc/ml/graph-emb/BINE-笔记.md)
+    +   [【论文笔记】DeepWalk：大型社会表示的在线学习](doc/ml/graph-emb/DeepWalk-笔记.md)
+    +   [【论文笔记】LINE：大规模信息网络嵌入](doc/ml/graph-emb/LINE-笔记.md)
+    +   [【论文笔记】node2vec：可扩展的网络特征学习](doc/ml/graph-emb/node2vec-笔记.md)
+    +   [【论文笔记】PTE：预测性文本嵌入](doc/ml/graph-emb/pte-论文笔记.md)
++   NumPy
+    +   [试验性的Numpy教程](doc/numpy/tentative-numpy-tut.md)
+    +   [计算布林带](doc/numpy/计算布林带.md)
+    +   [预测今后的北京高考人数](doc/numpy/预测今后的北京高考人数.md)
++   Pandas
+    +   [十分钟搞定 pandas](doc/pandas/10-minutes-to-pandas.md)
+    +   [Pandas 秘籍](doc/pandas/pandas-cookbook.md)
+    +   [学习 Pandas](doc/pandas/learn-pandas/README.md)
++   Quant
+    +   [自创数据集，使用TensorFlow预测股票入门](doc/quant/自创数据集，使用TensorFlow预测股票入门.md)
++   杂项
+    +   [Python 爱好者社区历史文章列表（2018.7.13）](doc/misc/Python_爱好者社区历史文章列表（2018.7.13）.md)
+    +   [你的机器学习论文严谨吗？青年学者痛批学界“歪风”](doc/misc/你的机器学习论文严谨吗？青年学者痛批学界“歪风”.md)
+    +   [矩阵求导术（上）](doc/misc/矩阵求导术（上）.md)
+    +   [矩阵求导术（下）](doc/misc/矩阵求导术（下）.md)

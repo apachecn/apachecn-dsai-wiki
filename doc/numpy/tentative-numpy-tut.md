@@ -1,5 +1,4 @@
-试验性的Numpy教程
-===========
+# 试验性的Numpy教程
 
 <http://reverland.org/python/2012/08/22/numpy>
 
