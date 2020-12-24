@@ -8,6 +8,7 @@
 
 
 * [在线阅读](https://dsai-wiki.apachecn.org)
+* [在线阅读（Gitee）](https://apachecn.gitee.io/dsai-wiki/)
 * [ApacheCN 学习资源](http://docs.apachecn.org/)
 
 ## 贡献指南
