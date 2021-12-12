@@ -1,4 +1,8 @@
 +   深度学习
+	+   [基于深度学习的推荐系统：综述和新视角](doc/dl/rs-survey-arxiv-1707-07435-zh/README.md)
+		+   [一、引言](doc/dl/rs-survey-arxiv-1707-07435-zh/1.md)
+		+   [二、推荐系统和深度学习概述](doc/dl/rs-survey-arxiv-1707-07435-zh/2.md)
+		+   [三、基于深度学习的推荐：最先进的技术](doc/dl/rs-survey-arxiv-1707-07435-zh/3.md)
     +   [深度学习 100 题](doc/dl/深度学习_100_题/README.md)
     +   [一文详解 Word2vec 之 Skip-Gram 模型](doc/dl/一文详解_Word2vec_之_Skip-Gram_模型/README.md)
 		+   [一文详解 Word2vec 之 Skip-Gram 模型（实现篇）](doc/dl/一文详解_Word2vec_之_Skip-Gram_模型/实现篇.md)
