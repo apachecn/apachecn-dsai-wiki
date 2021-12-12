@@ -61,6 +61,10 @@
 +   Kaggle
     +   [如何在 Kaggle 首战中进入前 10%](doc/kaggle/如何在_Kaggle_首战中进入前_10%.md)
     +   [Kaggle word2vec NLP 教程](doc/kaggle/Bag_of_Words_Meets_Bags_of_Popcorn/README.md)
+		+   [描述](doc/kaggle/Bag_of_Words_Meets_Bags_of_Popcorn/0.md)
+		+   [第一部分：写给入门者的词袋](doc/kaggle/Bag_of_Words_Meets_Bags_of_Popcorn/1.md)
+		+   [第二部分：词向量](doc/kaggle/Bag_of_Words_Meets_Bags_of_Popcorn/2.md)
+		+   [第三部分：词向量的更多乐趣](doc/kaggle/Bag_of_Words_Meets_Bags_of_Popcorn/3.md)
 +   Keras
     +   [使用 Python 和 Keras 逐步开发你的第一个神经网络](doc/keras/使用_Python_和_Keras_逐步开发你的第一个神经网络.md)
 +   Matplotlib
