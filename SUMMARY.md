@@ -1,12 +1,4 @@
 +   深度学习
-	+   [图嵌入综述：问题，技术与应用](doc/dl/ge-survey-arxiv-1709-07604-zh/README.md)
-		+   [一、引言](doc/dl/ge-survey-arxiv-1709-07604-zh/1.md)
-		+   [二、问题形式化](doc/dl/ge-survey-arxiv-1709-07604-zh/2.md)
-		+   [三、图嵌入的问题设定](doc/dl/ge-survey-arxiv-1709-07604-zh/3.md)
-		+   [四、图嵌入技术](doc/dl/ge-survey-arxiv-1709-07604-zh/4.md)
-		+   [五、应用](doc/dl/ge-survey-arxiv-1709-07604-zh/5.md)
-		+   [六、未来发展方向](doc/dl/ge-survey-arxiv-1709-07604-zh/6.md)
-		+   [七、结论](doc/dl/ge-survey-arxiv-1709-07604-zh/7.md)
     +   [深度学习 100 题](doc/dl/深度学习_100_题/README.md)
     +   [一文详解 Word2vec 之 Skip-Gram 模型](doc/dl/一文详解_Word2vec_之_Skip-Gram_模型/README.md)
 		+   [一文详解 Word2vec 之 Skip-Gram 模型（实现篇）](doc/dl/一文详解_Word2vec_之_Skip-Gram_模型/实现篇.md)
@@ -64,6 +56,14 @@
 +   Matplotlib
     +   [Rougier 的 Matplotlib 教程](doc/matplotlib/rougier-matplotlib-tut.md)
 +   机器学习
+	+   [图嵌入综述：问题，技术与应用](doc/ml/ge-survey-arxiv-1709-07604-zh/README.md)
+		+   [一、引言](doc/ml/ge-survey-arxiv-1709-07604-zh/1.md)
+		+   [二、问题形式化](doc/ml/ge-survey-arxiv-1709-07604-zh/2.md)
+		+   [三、图嵌入的问题设定](doc/ml/ge-survey-arxiv-1709-07604-zh/3.md)
+		+   [四、图嵌入技术](doc/ml/ge-survey-arxiv-1709-07604-zh/4.md)
+		+   [五、应用](doc/ml/ge-survey-arxiv-1709-07604-zh/5.md)
+		+   [六、未来发展方向](doc/ml/ge-survey-arxiv-1709-07604-zh/6.md)
+		+   [七、结论](doc/ml/ge-survey-arxiv-1709-07604-zh/7.md)
     +   [BAT 机器学习 1000 题](doc/ml/BAT_机器学习_1000_题/README.md)
     +   [【论文笔记】BINE：二分网络嵌入](doc/ml/graph-emb/BINE-笔记.md)
     +   [【论文笔记】DeepWalk：大型社会表示的在线学习](doc/ml/graph-emb/DeepWalk-笔记.md)
