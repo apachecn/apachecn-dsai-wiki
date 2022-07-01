@@ -65,6 +65,7 @@
 +   Keras
     +   [使用 Python 和 Keras 逐步开发你的第一个神经网络](docs/%E4%BD%BF%E7%94%A8_Python_%E5%92%8C_Keras_%E9%80%90%E6%AD%A5%E5%BC%80%E5%8F%91%E4%BD%A0%E7%9A%84%E7%AC%AC%E4%B8%80%E4%B8%AA%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C.md)
 +   Quant
+    +   [机器学习在金融中的应用：不应该使用LSTM预测股市的原因](docs/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%9C%A8%E9%87%91%E8%9E%8D%E4%B8%AD%E7%9A%84%E5%BA%94%E7%94%A8%EF%BC%9A%E4%B8%8D%E5%BA%94%E8%AF%A5%E4%BD%BF%E7%94%A8LSTM%E9%A2%84%E6%B5%8B%E8%82%A1%E5%B8%82%E7%9A%84%E5%8E%9F%E5%9B%A0.md)
     +   [自创数据集，使用TensorFlow预测股票入门](docs/%E8%87%AA%E5%88%9B%E6%95%B0%E6%8D%AE%E9%9B%86%EF%BC%8C%E4%BD%BF%E7%94%A8TensorFlow%E9%A2%84%E6%B5%8B%E8%82%A1%E7%A5%A8%E5%85%A5%E9%97%A8.md)
 +   NumPy
     +   [计算布林带](docs/%E8%AE%A1%E7%AE%97%E5%B8%83%E6%9E%97%E5%B8%A6.md)
