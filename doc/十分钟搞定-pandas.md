@@ -1,3 +1,8 @@
+<!--yml
+category: Pandas
+date: 2022-07-01 00:00:00
+-->
+
 # 十分钟搞定 pandas
 
 > 原文：[10 Minutes to pandas](http://pandas.pydata.org/pandas-docs/stable/10min.html)

@@ -1,3 +1,8 @@
+<!--yml
+category: Pandas
+date: 2022-07-01 00:00:00
+-->
+
 # Pandas 秘籍
 
 > 原文：[Pandas cookbook](https://github.com/jvns/pandas-cookbook)

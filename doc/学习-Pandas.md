@@ -1,3 +1,8 @@
+<!--yml
+category: Pandas
+date: 2022-07-01 00:00:00
+-->
+
 # 学习 Pandas
 
 英文原文: [Learn Pandas](https://bitbucket.org/hrojas/learn-pandas/)
