@@ -1,3 +1,8 @@
+<!--yml
+category: 深度学习
+date: 2022-07-01 00:00:00
+-->
+
 # 一文详解 Word2vec 之 Skip-Gram 模型（实现篇）
 
 ## 前言

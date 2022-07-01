@@ -1,3 +1,8 @@
+<!--yml
+category: 深度学习
+date: 2022-07-01 00:00:00
+-->
+
 # 一文详解 Word2vec 之 Skip-Gram 模型（训练篇）
 
 [第一部分](https://www.leiphone.com/news/201706/PamWKpfRFEI42McI.html)我们了解skip-gram的输入层、隐层、输出层。在第二部分，会继续深入讲如何在skip-gram模型上进行高效的训练。

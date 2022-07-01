@@ -1,3 +1,8 @@
+<!--yml
+category: 深度学习
+date: 2022-07-01 00:00:00
+-->
+
 # 一文详解 Word2vec 之 Skip-Gram 模型（结构篇）
 
 这次的分享主要是对Word2Vec模型的两篇英文文档的翻译、理解和整合，这两篇英文文档都是介绍Word2Vec中的Skip-Gram模型。下一篇专栏文章将会用TensorFlow实现基础版Word2Vec的skip-gram模型，所以本篇文章先做一个理论铺垫。
