@@ -1,4 +1,9 @@
-## 第二部分：词向量
+<!--yml
+category: Kaggle
+date: 2022-07-01 00:00:00
+-->
+
+# Kaggle word2vec NLP 教程：第二部分：词向量
 
 ### 代码
 

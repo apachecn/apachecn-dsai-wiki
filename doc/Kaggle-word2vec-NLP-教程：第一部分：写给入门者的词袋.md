@@ -1,4 +1,9 @@
-## 第一部分：写给入门者的词袋
+<!--yml
+category: Kaggle
+date: 2022-07-01 00:00:00
+-->
+
+# Kaggle word2vec NLP 教程：第一部分：写给入门者的词袋
 
 ### 什么是 NLP
 

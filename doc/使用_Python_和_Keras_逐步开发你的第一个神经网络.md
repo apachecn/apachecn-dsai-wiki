@@ -1,3 +1,8 @@
+<!--yml
+category: Keras
+date: 2022-07-01 00:00:00
+-->
+
 # 使用 Python 和 Keras 逐步开发你的第一个神经网络
 
 > 原文：[Develop Your First Neural Network in Python With Keras Step-By-Step](https://machinelearningmastery.com/tutorial-first-neural-network-python-keras/)

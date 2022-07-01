@@ -1,4 +1,9 @@
-## 第三部分：词向量的更多乐趣
+<!--yml
+category: Kaggle
+date: 2022-07-01 00:00:00
+-->
+
+# Kaggle word2vec NLP 教程：第三部分：词向量的更多乐趣
 
 ### 代码
 

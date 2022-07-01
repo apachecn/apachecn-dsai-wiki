@@ -1,4 +1,18 @@
-# 描述
+<!--yml
+category: Kaggle
+date: 2022-07-01 00:00:00
+-->
+
+# Kaggle word2vec NLP 教程：描述
+
+> 原文：[Bag of Words Meets Bags of Popcorn](https://www.kaggle.com/c/word2vec-nlp-tutorial)
+> 
+> 译者：[飞龙](https://github.com/wizardforcel)
+> 
+> 协议：[CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/)
+> 
+> 自豪地采用[谷歌翻译](https://translate.google.cn/)
+
 
 在本教程竞赛中，我们对情感分析进行了一些“深入”研究。谷歌的 Word2Vec 是一种受深度学习启发的方法，专注于单词的含义。 Word2Vec 试图理解单词之间的意义和语义关系。它的工作方式类似于深度方法，例如循环神经网络或深度神经网络，但计算效率更高。本教程重点介绍用于情感分析的 Word2Vec。
 

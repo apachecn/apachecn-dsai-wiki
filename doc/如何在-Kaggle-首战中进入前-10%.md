@@ -1,3 +1,8 @@
+<!--yml
+category: Kaggle
+date: 2022-07-01 00:00:00
+-->
+
 # 如何在 Kaggle 首战中进入前 10%
 
 > 来源：<https://dnc1994.com/2016/04/rank-10-percent-in-first-kaggle-competition/>
