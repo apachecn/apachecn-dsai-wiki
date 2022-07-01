@@ -1,3 +1,8 @@
+<!--yml
+category: Quant
+date: 2022-07-01 00:00:00
+-->
+
 # 自创数据集，使用TensorFlow预测股票入门
 
 > 来源：[机器之心](https://www.jiqizhixin.com/articles/2017-11-12)
