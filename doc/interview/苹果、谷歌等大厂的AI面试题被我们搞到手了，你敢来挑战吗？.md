@@ -1,3 +1,8 @@
+<!--yml
+category: 面试
+date: 2022-07-01 00:00:00
+-->
+
 # 苹果、谷歌等大厂的AI面试题被我们搞到手了，你敢来挑战吗？
 
 本文由 「AI前线」原创**（ID：ai-front），**原文链接：[苹果、谷歌等大厂的AI面试题被我们搞到手了，你敢来挑战吗？](https://link.zhihu.com/?target=https%3A//mp.weixin.qq.com/s/YzrKnltxxovI2UhRfVtjGQ)

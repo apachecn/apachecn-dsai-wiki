@@ -1,3 +1,8 @@
+<!--yml
+category: 面试
+date: 2022-07-01 00:00:00
+-->
+
 # Google人工智能面试·真·题（附参考答案+攻略）
 
 > 来源：<https://zhuanlan.zhihu.com/p/35978758>
